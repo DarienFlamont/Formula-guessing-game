@@ -1,0 +1,86 @@
+Provide points to start the games: -1
+Invalid entry, retry
+Provide points to start the games: 5
+Do you wish to play ? y - yes, n - no: k
+Invalid entry,retry
+Do you wish to play ? y - yes, n - no: y
+Playing Game Number: 1
+-----------------------------
+You have this many points so far:  5
+Provide the maximum number of wrong guesses you wish to allow: 0
+Too few guesses, retry
+Provide the maximum number of wrong guesses you wish to allow: 2
+TRACE: computer chose this formula:  *+3179
+TRACE: expanded formula is:  3*1+7*9
+TRACE: evauluated formula is:  66
+The formula you will have to guess has 6 symbols  ------
+You can only use digits 0 to 9 and symbols + and *
+Please enter an operations symbol or digit: 0
+Wrong guess (#-represents unused wrong guesses)  /#
+Please enter an operations symbol or digit: 0
+Wrong guess (#-represents unused wrong guesses)  //
+You have used up all of your guesses, game is over
+You have lost 2 points, new point total is:  3
+Do you wish to play ? y - yes, n - no: y
+Playing Game Number: 1
+-----------------------------
+You have this many points so far:  3
+Provide the maximum number of wrong guesses you wish to allow: 0
+Too few guesses, retry
+Provide the maximum number of wrong guesses you wish to allow: 9
+TRACE: computer chose this formula: \ **012
+TRACE: expanded formula is:  0*1*2
+TRACE: evauluated formula is:  0
+The formula you will have to guess has 5 symbols  -----
+You can only use digits 0 to 9 and symbols + and *
+Please enter an operations symbol or digit: +
+Wrong guess (#-represents unused wrong guesses)  /########
+Please enter an operations symbol or digit: *
+You have guessed a correct symbol  **---
+Please enter an operations symbol or digit: 3
+Wrong guess (#-represents unused wrong guesses)  //#######
+Please enter an operations symbol or digit: 6
+Wrong guess (#-represents unused wrong guesses)  ///######
+Please enter an operations symbol or digit: 5
+Wrong guess (#-represents unused wrong guesses)  ////#####
+Please enter an operations symbol or digit: 96
+Invalid entry, retry. (Does not count as incorrect guess)
+Please enter an operations symbol or digit: 59
+Invalid entry, retry. (Does not count as incorrect guess)
+Please enter an operations symbol or digit: 9
+Wrong guess (#-represents unused wrong guesses)  /////####
+Please enter an operations symbol or digit: 9
+Wrong guess (#-represents unused wrong guesses)  //////###
+Please enter an operations symbol or digit: 9
+Wrong guess (#-represents unused wrong guesses)  ///////##
+Please enter an operations symbol or digit: 9
+Wrong guess (#-represents unused wrong guesses)  ////////#
+Please enter an operations symbol or digit: 9
+Wrong guess (#-represents unused wrong guesses)  /////////
+You have used up all of your guesses, game is over
+You have lost 2 points, new point total is:  1
+You do not have enoguh points to start a new game 
+-----------------------------------------------------------------------------
+All games are now over
+You have played  2  games and your point total is:  1
+The history of the last game you played is: 
+You started with this many points:  3
+Mystery Formula was:  **012
+user guessed:  +
+user guessed:  *
+user guessed:  3
+user guessed:  6
+user guessed:  5
+user guessed:  9
+user guessed:  9
+user guessed:  9
+user guessed:  9
+user guessed:  9
+You did not guess the correct formula **012
+Your final point total is:  1
+Based on the binary list:  [0, 1, 0]
+Your first lucky number is: : 2
+Based on the list of expressions ['0+1+2', '1+2', '2']
+and on the list of added values [3, 3, 2]
+Your second lucky number is:  8
+Game over

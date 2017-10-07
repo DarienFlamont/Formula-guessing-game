@@ -1,0 +1,73 @@
+Provide points to start the games: 12
+Do you wish to play ? y - yes, n - no: y
+Playing Game Number: 1
+-----------------------------
+You have this many points so far:  12
+Provide the maximum number of wrong guesses you wish to allow: 5
+TRACE: computer chose this formula:  *+123123
+TRACE: expanded formula is:  1*2+3*1+2*3
+TRACE: evauluated formula is:  11
+The formula you will have to guess has 8 symbols  --------
+You can only use digits 0 to 9 and symbols + and *
+Please enter an operations symbol or digit: 9
+Wrong guess (#-represents unused wrong guesses)  /####
+Please enter an operations symbol or digit: 8
+Wrong guess (#-represents unused wrong guesses)  //###
+Please enter an operations symbol or digit: 7
+Wrong guess (#-represents unused wrong guesses)  ///##
+Please enter an operations symbol or digit: 6
+Wrong guess (#-represents unused wrong guesses)  ////#
+Please enter an operations symbol or digit: 5
+Wrong guess (#-represents unused wrong guesses)  /////
+You have used up all of your guesses, game is over
+You have lost 2 points, new point total is:  10
+Do you wish to play ? y - yes, n - no: y
+Playing Game Number: 1
+-----------------------------
+You have this many points so far:  10
+Provide the maximum number of wrong guesses you wish to allow: 2
+TRACE: computer chose this formula:  *+3179
+TRACE: expanded formula is:  3*1+7*9
+TRACE: evauluated formula is:  66
+The formula you will have to guess has 6 symbols  ------
+You can only use digits 0 to 9 and symbols + and *
+Please enter an operations symbol or digit: *
+You have guessed a correct symbol  *-----
+Please enter an operations symbol or digit: +
+You have guessed a correct symbol  *+----
+Please enter an operations symbol or digit: 3
+You have guessed a correct symbol  *+3---
+Please enter an operations symbol or digit: 1
+You have guessed a correct symbol  *+31--
+Please enter an operations symbol or digit: 7
+You have guessed a correct symbol  *+317-
+Please enter an operations symbol or digit: 9
+You have guessed the formula  *+3179
+You receive 2 points
+Point Total so far is:  12
+The expanded formula is:  3*1+7*9
+Please evauate the formula (answer is an integer): 66
+You have correctly guessed and evaluated the formula.
+you have earned 12 points and your new total is:  22
+Do you wish to play ? y - yes, n - no: n
+-----------------------------------------------------------------------------
+All games are now over
+You have played  2  games and your point total is:  22
+The history of the last game you played is: 
+You started with this many points:  10
+Mystery Formula was:  *+3179
+user guessed:  *
+user guessed:  +
+user guessed:  3
+user guessed:  1
+user guessed:  7
+user guessed:  9
+You guessed the correct formula *+3179
+You evaluated correctly, the result was:  66
+Your final point total is:  22
+Based on the binary list:  [1, 1, 1, 1]
+Your first lucky number is: : 15
+Based on the list of expressions ['3+1+7+9', '1+7+9', '7+9', '9']
+and on the list of added values [20, 17, 16, 9]
+Your second lucky number is:  62
+Game over

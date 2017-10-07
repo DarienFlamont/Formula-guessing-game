@@ -1,0 +1,74 @@
+Provide points to start the games: 12
+Do you wish to play ? y - yes, n - no: y
+Playing Game Number: 1
+-----------------------------
+You have this many points so far:  12
+Provide the maximum number of wrong guesses you wish to allow: 5
+TRACE: computer chose this formula:  **012
+TRACE: expanded formula is:  0*1*2
+TRACE: evauluated formula is:  0
+The formula you will have to guess has 5 symbols  -----
+You can only use digits 0 to 9 and symbols + and *
+Please enter an operations symbol or digit: *
+You have guessed a correct symbol  **---
+Please enter an operations symbol or digit: 1
+You have guessed a correct symbol  **-1-
+Please enter an operations symbol or digit: 2
+You have guessed a correct symbol  **-12
+Please enter an operations symbol or digit: 3
+Wrong guess (#-represents unused wrong guesses)  /####
+Please enter an operations symbol or digit: 0
+You have guessed the formula  **012
+You receive 2 points
+Point Total so far is:  14
+The expanded formula is:  0*1*2
+Please evauate the formula (answer is an integer): 0
+You have correctly guessed and evaluated the formula.
+you have earned 12 points and your new total is:  24
+Do you wish to play ? y - yes, n - no: y
+Playing Game Number: 1
+-----------------------------
+You have this many points so far:  24
+Provide the maximum number of wrong guesses you wish to allow: 2
+TRACE: computer chose this formula:  ++9876
+TRACE: expanded formula is:  9+8+7+6
+TRACE: evauluated formula is:  30
+The formula you will have to guess has 6 symbols  ------
+You can only use digits 0 to 9 and symbols + and *
+Please enter an operations symbol or digit: 9
+You have guessed a correct symbol  --9---
+Please enter an operations symbol or digit: 8
+You have guessed a correct symbol  --98--
+Please enter an operations symbol or digit: 7
+You have guessed a correct symbol  --987-
+Please enter an operations symbol or digit: 6
+You have guessed a correct symbol  --9876
+Please enter an operations symbol or digit: +
+You have guessed the formula  ++9876
+You receive 2 points
+Point Total so far is:  26
+The expanded formula is:  9+8+7+6
+Please evauate the formula (answer is an integer): 30
+You have correctly guessed and evaluated the formula.
+you have earned 12 points and your new total is:  36
+Do you wish to play ? y - yes, n - no: n
+-----------------------------------------------------------------------------
+All games are now over
+You have played  2  games and your point total is:  36
+The history of the last game you played is: 
+You started with this many points:  24
+Mystery Formula was:  ++9876
+user guessed:  9
+user guessed:  8
+user guessed:  7
+user guessed:  6
+user guessed:  +
+You guessed the correct formula ++9876
+You evaluated correctly, the result was:  30
+Your final point total is:  36
+Based on the binary list:  [1, 0, 1, 0]
+Your first lucky number is: : 10
+Based on the list of expressions ['9+8+7+6', '8+7+6', '7+6', '6']
+and on the list of added values [30, 21, 13, 6]
+Your second lucky number is:  70
+Game over
