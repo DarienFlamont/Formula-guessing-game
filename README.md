@@ -1,9 +1,8 @@
 # Formula-guessing-game
-Created by Juan Barrero, Jashan Thind, and myself
+Created by Juan Barrero, Jashan Thind, and Vladimir Bereznyakov
 
-#Info
-A simple python formula guessing game with Sample Runs included. Created for CMPT 120, SFU, in Fall of 2014. This project is rough around 
-the edges as it was developed during first year and as such might not have the best efficiency/code
+# Information
+A math formula guessing game with the source code written in Python.  The source code includes sample runs of the game. Created at Simon Fraser University for CMPT 120 during the Fall of 2014. This project was developed in first year courses and has not been refactored to increase code readability and efficiency.
 
-#Additional Info
-No commits for this project since we did not use version control when developing
+# Additional Information
+No commits for this project since we did not use a version control system when developing this software.
